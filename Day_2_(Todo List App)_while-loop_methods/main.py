@@ -14,3 +14,8 @@ while password != "pass123":
     password = input("Enter the password: ")
 
 print("Password was correct! ")
+
+# How to find the code you need
+dir(str)
+help("str".capitalize())
+dir([])
