@@ -4,3 +4,4 @@ ___
 
 - Day 1 -  App 1️⃣ (Todo List App)  #print #variables #functions #lists
 - Day 2 -  App 1️⃣ (Todo List App)  #while-loop #methods
+- Day 3 -  App 1️⃣ (Todo List App)  #match-case #for-loops
