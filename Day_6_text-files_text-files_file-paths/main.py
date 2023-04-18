@@ -5,14 +5,18 @@ while True:
     match user_action:
         case 'add':
             todo = input("Enter a todo: ") + "\n"
-            file = open('todos.txt', 'r')
+            file = open('files/todo.txt', 'r')
             todos = file.readlines()
             file.close()
             todos.append(todo)
-            file = open('todos.txt', 'w')
+            file = open('files/todos.txt', 'w')
             file.writelines(todos)
             file.close()
         case 'show' | 'display':  # | - it is "OR"
+            file = open('files/todos.txt', 'r')
+            todos = file.readlines()
+            file.close()
+
             for index, item in enumerate(todos):
                 item = item.title()
                 print(f"{index + 1}-{item}")
