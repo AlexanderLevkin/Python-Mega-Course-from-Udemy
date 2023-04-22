@@ -9,3 +9,4 @@ ___
 - Day 5 - App 1️⃣ (Todo List App) #enumerate #f-strings
 - Day 6 - App 1️⃣ (Todo List App) #text-files #text-files #file-paths
 - Day 7 - App 1️⃣ (Todo List App) #list-comprehensions #comments
+- Day 8 - App 1️⃣ (Todo List App)  #with-context-manager
