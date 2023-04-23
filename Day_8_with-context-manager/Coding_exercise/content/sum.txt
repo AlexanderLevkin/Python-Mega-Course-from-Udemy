@@ -1,7 +1,0 @@
-head
-head
-tail
-head
-tail
-head
-head
