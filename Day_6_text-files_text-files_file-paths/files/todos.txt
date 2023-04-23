@@ -1,0 +1,6 @@
+run
+Jump
+Walk
+run
+jump
+move
