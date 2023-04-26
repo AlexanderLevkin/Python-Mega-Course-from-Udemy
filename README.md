@@ -12,3 +12,4 @@ ___
 - Day 8 - App 1️⃣ (Todo List App)  #with-context-manager
 - Day 9 - App 1️⃣ (Todo List App)  #if #elif #else #slicing #dictionaries
 - Day 10 - App 1️⃣ (Todo List App) #try-except #continue #exceptions
+- Day 11 - App 1️⃣ (Todo List App) #custom-functions
