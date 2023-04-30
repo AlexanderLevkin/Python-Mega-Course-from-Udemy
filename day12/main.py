@@ -1,7 +1,13 @@
-def get_todos():
-    with open('files/todos.txt', 'r') as file_local:
+def get_todos(filepath):
+    with open(filepath, 'r') as file_local:
         todos_local = file_local.readlines()
     return todos_local
+
+
+def write_todos(filepath, todos_arg):
+    with open(filepath, 'w') as file_local:
+        file_local.writelines(todos_arg)
+
 
 while True:
     user_action = input("Type add, show, edit or exit: ")
@@ -10,16 +16,15 @@ while True:
     if user_action.startswith("add"):
         todo = user_action[4:]
 
-        todos = get_todos()
+        todos = get_todos('files/todos.txt')
 
         todos.append(todo + "\n")
 
-        with open('files/todos.txt', 'w') as file:
-            file.writelines(todos)
+        write_todos('files/todos.txt', todos)
 
     elif user_action.startswith('show'):
 
-        todos = get_todos()
+        todos = get_todos('files/todos.txt')
 
         for index, item in enumerate(todos):
             item = item.strip('\n')
@@ -31,13 +36,13 @@ while True:
             number = user_action[5:]
             number = int(number) - 1
 
-            todos = get_todos()
+            todos = get_todos('files/todos.txt')
 
             new_todo = input("Enter the new type: ")
             todos[number] = new_todo + '\n'
 
-            with open('files/todos.txt', 'w') as file:
-                file.writelines(todos)
+            write_todos('files/todos.txt', todos)
+
         except ValueError:
             print("Your command is not valid.")
         continue
@@ -46,13 +51,12 @@ while True:
     elif user_action.startswith('complete'):
         try:
             number = user_action[9:]
-            todos = get_todos()
+            todos = get_todos('files/todos.txt')
 
             todo_to_remove = todos[int(number) - 1].strip('\n')
             todos.pop(int(todo_to_remove))
 
-            with open('files/todos.txt', 'w') as file:
-                file.writelines(todos)
+            write_todos('files/todos.txt', todos)
 
             message = f'Todo {todo_to_remove} was remove from the list'
             print(message)
