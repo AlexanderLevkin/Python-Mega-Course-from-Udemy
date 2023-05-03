@@ -13,3 +13,5 @@ ___
 - Day 9 - App 1️⃣ (Todo List App)  #if #elif #else #slicing #dictionaries
 - Day 10 - App 1️⃣ (Todo List App) #try-except #continue #exceptions
 - Day 11 - App 1️⃣ (Todo List App) #custom-functions
+- Day 12 - App 1️⃣ (Todo List App) #arguments #multiple-arguments #decoupling-output
+- Day 13 - App 1️⃣ (Todo List App)  #default-arg #doc-strings #decouple-functions
