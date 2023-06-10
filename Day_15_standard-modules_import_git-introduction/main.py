@@ -1,5 +1,5 @@
 import functions as f
-
+import time
 
 while True:
     user_action = input("Type add, show, edit or exit: ")
