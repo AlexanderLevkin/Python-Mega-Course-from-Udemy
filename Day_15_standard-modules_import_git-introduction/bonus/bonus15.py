@@ -4,7 +4,7 @@ with open("queation.json") as json_file:
     content = json_file.read()
 
 data = json.loads(content)
-
+print(data)
 
 for question in data:
     print(question["quastion_text"] + "\n")
