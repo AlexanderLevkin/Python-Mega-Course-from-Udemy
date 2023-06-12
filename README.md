@@ -15,3 +15,6 @@ ___
 - Day 11 - App 1️⃣ (Todo List App) #custom-functions
 - Day 12 - App 1️⃣ (Todo List App) #arguments #multiple-arguments #decoupling-output
 - Day 13 - App 1️⃣ (Todo List App)  #default-arg #doc-strings #decouple-functions
+- Day 14 - App 1️⃣ (Todo List App)  #local-modules #import
+- Day 15 - App 1️⃣ (Todo List App) #standard-modules #import #git-introduction
+- Day 16 - App 1️⃣ (Todo List App  - Desktop GUI) #third-party-modules #gui #github
