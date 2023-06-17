@@ -18,3 +18,4 @@ ___
 - Day 14 - App 1️⃣ (Todo List App)  #local-modules #import
 - Day 15 - App 1️⃣ (Todo List App) #standard-modules #import #git-introduction
 - Day 16 - App 1️⃣ (Todo List App  - Desktop GUI) #third-party-modules #gui #github
+- Day 17 - App 1️⃣ (Todo List App - Desktop GUI) #gui-buttons #gui-text-boxes
