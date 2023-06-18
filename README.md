@@ -19,3 +19,4 @@ ___
 - Day 15 - App 1️⃣ (Todo List App) #standard-modules #import #git-introduction
 - Day 16 - App 1️⃣ (Todo List App  - Desktop GUI) #third-party-modules #gui #github
 - Day 17 - App 1️⃣ (Todo List App - Desktop GUI) #gui-buttons #gui-text-boxes
+- Day 18 - App 1️⃣: Build a To-do App with Python (Various GUI Styles)
