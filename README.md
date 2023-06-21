@@ -21,3 +21,5 @@ ___
 - Day 17 - App 1️⃣ (Todo List App - Desktop GUI) #gui-buttons #gui-text-boxes
 - Day 18 - App 1️⃣: Build a To-do App with Python (Various GUI Styles)
 - Day 19 - App 1️⃣: Build a To-do App with Python (Build a Web App Version)
+- **Day 20 - Summary of Python Basics**
+- Day 21 - App 2️⃣: Build a Project Showcase Website with Python (Part 1)
