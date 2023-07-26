@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-PATH = "Day_22_Build_a_Project_Showcase_Website_with_Python_Part2/my_own_web_site/images_1"
+PATH = "Day_22_Build_a_Project_Showcase_Website_with_Python_Part2/my_own_web_site_1/images_1"
 
 st.set_page_config(layout="wide")
 df = pd.read_csv("Day_22_Build_a_Project_Showcase_Website_with_Python_Part2/my_own_web_site/data_1.csv", sep=",")
