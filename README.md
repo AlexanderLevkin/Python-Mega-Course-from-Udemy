@@ -25,3 +25,4 @@ ___
 - Day 21 - App 2️⃣: Build a Project Showcase Website with Python (Part 1)
 - Day 22 - App 2️⃣: Build a Project Showcase Website with Python (Part 2)
 - Day 23 - App 2️⃣: Build a Project Showcase Website with Python (Part 3)
+- Day 24 - App 2️⃣: Generate PDF Documents with Python
