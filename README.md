@@ -23,3 +23,5 @@ ___
 - Day 19 - App 1️⃣: Build a To-do App with Python (Build a Web App Version)
 - **Day 20 - Summary of Python Basics**
 - Day 21 - App 2️⃣: Build a Project Showcase Website with Python (Part 1)
+- Day 22 - App 2️⃣: Build a Project Showcase Website with Python (Part 2)
+- Day 23 - App 2️⃣: Build a Project Showcase Website with Python (Part 3)

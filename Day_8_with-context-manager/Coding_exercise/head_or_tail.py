@@ -32,3 +32,5 @@ while True:
     percentage = nr_heads / len(sides) * 100
 
     print(f"Heads: {percentage}%")
+    if side.strip() == "exit":
+        break
