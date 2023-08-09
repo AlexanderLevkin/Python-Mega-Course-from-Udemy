@@ -27,3 +27,4 @@ ___
 - Day 23 - App 2️⃣: Build a Project Showcase Website with Python (Part 3)
 - Day 24 - App 2️⃣: Generate PDF Documents with Python
 - Day 25 - App ️ ️2️⃣: Generate PDF Invoices from Excel Documents (Part 1)
+- Day 26 - App 2️⃣: Generate PDF Invoices from Excel Documents (Part 2)

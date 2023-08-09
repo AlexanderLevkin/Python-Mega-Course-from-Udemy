@@ -15,4 +15,9 @@ for filepath in filepaths:
         pdf.set_font('Arial', size=16, style='B')
         pdf.cell(w=50, h=8, txt=f'{filename.capitalize()}', ln=1, align='C')
 
+        file = file.readline().strip()
+
+        pdf.set_font('Arial', size=10)
+        pdf.multi_cell(w=0, h=8, txt=str(file), align='J')
+
 pdf.output(f'../st_pdf/Output.pdf')
