@@ -29,3 +29,5 @@ ___
 - Day 25 - App ️ ️2️⃣: Generate PDF Invoices from Excel Documents (Part 1)
 - Day 26 - App 2️⃣: Generate PDF Invoices from Excel Documents (Part 2)\
 - Day 27 - App 5: Build a Daily News Digest with Python (Part 1)
+- Day 28 - App 5: Build a Daily News Digest with Python (Part 2)
+- Day 29 - App 6: Build a Historical Weather Data API with Python (Part 1)
