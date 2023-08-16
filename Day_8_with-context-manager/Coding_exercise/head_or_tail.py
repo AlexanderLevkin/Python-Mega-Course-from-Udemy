@@ -1,15 +1,15 @@
 # my solution:
 # while True:
-#     data = input("Throw the coin and enter head or tail here or type exit:")
-#     if data == "exit":
+#     data_small = input("Throw the coin and enter head or tail here or type exit:")
+#     if data_small == "exit":
 #         print("Bye! Bye!")
 #         break
-#     elif data not in ["head", "tail"]:
+#     elif data_small not in ["head", "tail"]:
 #         print("You typed the wrong words or characters")
 #     else:
 #         with open("content/count.txt") as file:
 #             sum_ = file.readlines()
-#             sum_.append(data + "\n")
+#             sum_.append(data_small + "\n")
 #             list_of_head = [item for item in sum_ if item.strip() == "head"]
 #         with open("content/count.txt", "w") as file:
 #             file.writelines(sum_)
