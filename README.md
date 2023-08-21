@@ -33,3 +33,4 @@ ___
 - Day 29 - App 6: Build a Historical Weather Data API with Python (Part 1)
 - Day 30 - App 6: Build a Historical Weather Data API with Python (Part 2)
 - Day 31 - App 6: Build a Historical Weather Data API with Python (Part 3)
+- Day 32 - App 7: Build a Weather Forecast Dashboard with Python (Part 1)
