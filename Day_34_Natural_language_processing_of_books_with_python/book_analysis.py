@@ -19,3 +19,22 @@ pattern = re.compile('[A-Z]{1}[^.]*[^a-zA-Z]+love[^a-zA-Z][^.]*.')
 
 findings = re.findall(pattern, book)
 print(len(findings))
+
+# What are the most used words?
+
+pattern = re.compile("[a-zA-Z]+")
+findings = re.findall(pattern, book.lower())
+print(len(findings))
+
+d ={}
+
+for word in findings:
+    if word in d.keys():
+        d[word] = d[word] + 1
+    else:
+        d[word] = 1
+
+d_list = [(value, key) for key, value in d.items()]
+sorted(d_list, reverse=True)
+
+print(sorted(d_list, reverse=True))
