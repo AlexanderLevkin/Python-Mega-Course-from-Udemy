@@ -36,3 +36,4 @@ ___
 - Day 32 - App 7: Build a Weather Forecast Dashboard with Python (Part 1)
 - Day 33 - App 7: Build a Weather Forecast Dashboard with Python (Part 2)
 - Day 34 - App 8: Natural Language Processing of Books with Python (Part 1)
+- Day 35 - App 8: Natural Language Processing of Books with Python (Part 2)
