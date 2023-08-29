@@ -16,6 +16,7 @@ flask = "^2.3.2"
 matplotlib = "^3.7.2"
 plotly = "^5.16.1"
 nltk = "^3.8.1"
+selectorlib = "^0.16.0"
 
 
 [tool.poetry.group.dev.dependencies]
