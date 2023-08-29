@@ -37,3 +37,4 @@ ___
 - Day 33 - App 7: Build a Weather Forecast Dashboard with Python (Part 2)
 - Day 34 - App 8: Natural Language Processing of Books with Python (Part 1)
 - Day 35 - App 8: Natural Language Processing of Books with Python (Part 2)
+- Day 38 - App 10: Build a Music Event Web Scraper with Python (Part 1)
