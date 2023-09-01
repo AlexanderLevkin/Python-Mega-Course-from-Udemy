@@ -40,3 +40,4 @@ ___
 - Day 38 - App 10: Build a Music Event Web Scraper with Python (Part 1)
 - Day 39 - App 10: Build a Music Event Web Scraper with Python (Part 2)
 - Day 40: Object Oriented Programming (OOP) in Python
+- Day 41 - App 11: Build a Hotel Booking App with Python in OOP Style (Part 1)
