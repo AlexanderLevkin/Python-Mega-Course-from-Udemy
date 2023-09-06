@@ -44,3 +44,4 @@ ___
 - Day 42 - App 11: Build a Hotel Booking App with Python in OOP Style (Part 2)
 - Day 43 - App 11: Build a Hotel Booking App with Python in OOP Style (Part 3)
 - Day 44 - App 12: Learn Code Inspection using the Mario Game App
+- Day 45 - App 13: Build an SQLite Student Management System with PyQt (Part 1)
