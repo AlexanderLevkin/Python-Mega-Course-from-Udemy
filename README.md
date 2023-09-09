@@ -39,10 +39,11 @@ ___
 - Day 35 - App 8: Natural Language Processing of Books with Python (Part 2)
 - Day 38 - App 10: Build a Music Event Web Scraper with Python (Part 1)
 - Day 39 - App 10: Build a Music Event Web Scraper with Python (Part 2)
-- Day 40: Object Oriented Programming (OOP) in Python
+- Day 40 - Object-Oriented Programming (OOP) in Python
 - Day 41 - App 11: Build a Hotel Booking App with Python in OOP Style (Part 1)
 - Day 42 - App 11: Build a Hotel Booking App with Python in OOP Style (Part 2)
 - Day 43 - App 11: Build a Hotel Booking App with Python in OOP Style (Part 3)
 - Day 44 - App 12: Learn Code Inspection using the Mario Game App
 - Day 45 - App 13: Build an SQLite Student Management System with PyQt (Part 1)
 - Day 46 - App 13: Build an SQLite Student Management System with PyQt (Part 2)
+- Day 47 - App 13: Build an SQLite Student Management System with PyQt (Part 3)

@@ -1,7 +1,8 @@
 import sys
 
-from PyQt6.QtWidgets import QApplication, QVBoxLayout, QLabel, QLineEdit, QPushButton, QWidget, QGridLayout
+from PyQt6.QtWidgets import QApplication, QLabel, QLineEdit, QPushButton, QWidget, QGridLayout
 from datetime import datetime
+
 
 class AgeCalculator(QWidget):
     def __init__(self):
@@ -36,7 +37,6 @@ class AgeCalculator(QWidget):
         year_of_birth = datetime.strptime(date_of_birth, "%m/%d/%Y").date().year
         age = current_date - year_of_birth
         self.output_label.setText(f"{self.name_line_edit.text()} is {age} years old")
-
 
 
 app = QApplication(sys.argv)
