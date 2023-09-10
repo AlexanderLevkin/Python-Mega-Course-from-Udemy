@@ -27,7 +27,7 @@ class MainWindow(QMainWindow):
         help_menu_item = self.menuBar().addMenu("&Help")
         edit_menu_item = self.menuBar().addMenu("&Edit")
 
-        add_picture = "../Day_45_46_App_13_Build_an_SQLite_Student_Management_System_with_PyQt/icons/add.png"
+        add_picture = "../Day_45_46_47_2_App_13_Build_an_SQLite_Student_Management_System_with_PyQt/icons/add.png"
 
         add_student_action = QAction(QIcon(add_picture), "Add Student", self)
         add_student_action.triggered.connect(self.insert)
@@ -38,7 +38,7 @@ class MainWindow(QMainWindow):
         about_action.setMenuRole(QAction.MenuRole.NoRole)
         about_action.triggered.connect(self.about)
 
-        search_picture = "../Day_45_46_App_13_Build_an_SQLite_Student_Management_System_with_PyQt/icons/search.png"
+        search_picture = "../Day_45_46_47_2_App_13_Build_an_SQLite_Student_Management_System_with_PyQt/icons/search.png"
         search_action = QAction(QIcon(search_picture), "Search", self)
         edit_menu_item.addAction(search_action)
         search_action.triggered.connect(self.search)
