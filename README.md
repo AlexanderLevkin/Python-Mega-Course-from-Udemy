@@ -47,3 +47,5 @@ ___
 - Day 45 - App 13: Build an SQLite Student Management System with PyQt (Part 1)
 - Day 46 - App 13: Build an SQLite Student Management System with PyQt (Part 2)
 - Day 47 - App 13: Build an SQLite Student Management System with PyQt (Part 3)
+- Day 48 - App 14: Build a MySQL Student Management System with PyQt
+- Day 49 - App 15: Build an Intelligent ChatBot with ChatGPT and PyQt

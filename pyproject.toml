@@ -18,6 +18,9 @@ plotly = "^5.16.1"
 nltk = "^3.8.1"
 selectorlib = "^0.16.0"
 pyqt6 = "^6.5.2"
+mysql = "^0.0.3"
+mysql-connector-python = "^8.1.0"
+openai = "^0.28.0"
 
 
 [tool.poetry.group.dev.dependencies]
