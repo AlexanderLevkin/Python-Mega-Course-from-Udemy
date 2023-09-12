@@ -49,3 +49,4 @@ ___
 - Day 47 - App 13: Build an SQLite Student Management System with PyQt (Part 3)
 - Day 48 - App 14: Build a MySQL Student Management System with PyQt
 - Day 49 - App 15: Build an Intelligent ChatBot with ChatGPT and PyQt
+- Day 50 - App 16: Build a Job Application Web App with Flask (Part 1)
